@@ -37,14 +37,3 @@ button {
 #message {
     margin: 20px 0;
 }
-
-@media (max-width: 768px) {
-    #game-container {
-        width: 90%;
-    }
-
-    input, button {
-        width: 100%;
-        font-size: 14px;
-    }
-}
